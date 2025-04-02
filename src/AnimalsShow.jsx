@@ -49,3 +49,5 @@ function AnimalsShow({type}){
     )
 
 }
+
+export default AnimalsShow
